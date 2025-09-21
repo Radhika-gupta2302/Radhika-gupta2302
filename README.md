@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 🎓 I’m a BCA student passionate about **Data Science & Analytics**.  
 💡 I love exploring datasets, applying statistical methods, and leveraging machine learning to uncover insights and solve problems.  
 
@@ -14,13 +14,13 @@ I’m currently focused on strengthening my skills in **Python, SQL, Power BI, a
 
 ---
 
-## 🎯 Career Aspiration
+# 🎯 Career Aspiration
 📈 To grow as a **Data Analyst / Data Scientist**, using my knowledge of statistics, analytics, and ML to generate actionable insights.  
 📊 I’m eager to learn, collaborate, and contribute to impactful, **data-driven solutions** while continuously developing professionally.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 Here’s a snapshot of my technical toolkit:
 
 - 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn)  
@@ -33,7 +33,7 @@ Here’s a snapshot of my technical toolkit:
 
 ---
 
-## 📬 Let’s Connect!
+# 📬 Let’s Connect!
 💼 [LinkedIn](your-linkedin-url)  
 💌 Email: your-email@example.com  
 
