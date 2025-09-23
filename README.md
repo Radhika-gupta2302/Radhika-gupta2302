@@ -34,7 +34,7 @@ Here’s a snapshot of my technical toolkit:
 ---
 
 # 📬 Let’s Connect!
-💼 [LinkedIn](your-linkedin-url)  
-💌 Email: your-email@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/radhika-gupta-b0510a23b/)  
+💌 Email: radhika.rg2002@gmail.com  
 
 ✨ “Turning raw data into meaningful insights and practical solutions.”
