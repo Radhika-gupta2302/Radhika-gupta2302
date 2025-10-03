@@ -42,3 +42,7 @@ Here’s a snapshot of my technical toolkit:
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 
 ✨ *“Turning raw data into meaningful insights and practical solutions.”*
+
+---
+
+https://github-readme-stats.vercel.app/api?username=Radhika-gupta2302&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues&hide_title=true
