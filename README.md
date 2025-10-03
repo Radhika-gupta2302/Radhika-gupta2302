@@ -33,6 +33,14 @@ Here’s a snapshot of my technical toolkit:
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhika-gupta2302&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika-gupta2302&layout=compact&theme=radical&hide_title=true)
+
+---
+
 # 📬 Let’s Connect!
 
 💼 **[LinkedIn](https://www.linkedin.com/in/radhika-gupta-b0510a23b/)**  
@@ -43,6 +51,3 @@ Here’s a snapshot of my technical toolkit:
 
 ✨ *“Turning raw data into meaningful insights and practical solutions.”*
 
----
-
-https://github-readme-stats.vercel.app/api?username=Radhika-gupta2302&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues&hide_title=true
